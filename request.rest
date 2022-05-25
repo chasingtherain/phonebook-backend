@@ -1,0 +1,11 @@
+POST http://localhost:3005/api/phonebook
+Content-Type: application/json
+
+{
+    "name": "jp33",
+    "number": 8192
+}
+
+###
+GET http://localhost:3005/info
+
